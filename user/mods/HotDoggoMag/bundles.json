@@ -1,0 +1,15 @@
+{
+    "manifest":
+    [
+
+        {
+            "key": "doggo_mag.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+      
+    ]
+}
